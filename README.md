@@ -16,7 +16,7 @@ A fun way to explore color blending using HEX codes and basic DOM manipulation.
 
 ## 📸 Preview
 
-![ColorMixer preview](link-to-screenshot-or-GIF-if-available)
+![ColorMixer preview](https://color-mixer-red.vercel.app/)
 
 ## 💻 How to Use
 
