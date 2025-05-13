@@ -14,9 +14,9 @@ A fun way to explore color blending using HEX codes and basic DOM manipulation.
 - HTML5 + CSS3
 - JavaScript (Vanilla)
 
-## 📸 Preview
+## 🌍 **Live Preview**
 
-![ColorMixer preview](https://color-mixer-red.vercel.app/)
+🔗 [Click here to view the project on Vercel](https://color-mixer-red.vercel.app/)
 
 ## 💻 How to Use
 
